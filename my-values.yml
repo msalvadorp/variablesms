@@ -1,2 +1,8 @@
 Value1: prueba1
 Value2: prueba16
+mongo:
+  host: hostmonbo
+  port: 1010
+  username: userad
+  password: pwd
+  uri: mongodb://${mongo.username}:${mongo.password}@${mongo.host}:${mongo.port}/?ssl=true&replicaSet=globaldb
