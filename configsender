@@ -1,0 +1,4 @@
+UrlSeguridad: "http://apiseguridadgalaxy:8080/"
+ApiNameSeguridad: apisender
+BusUrl: "Endpoint=sb://busgalaxymasp1.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=hULcWWr5x2u3gFu6g52KI8viuRk1F+Yn4LyllS3dmQ4="
+BusTopic: pedidosender
